@@ -169,7 +169,7 @@ namespace SeoAnalyzerApp {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The {0} field is not a valid fully-qualified http, https, or ftp URL..
+        ///   Looks up a localized string similar to The {0} field is not a valid fully-qualified http, https, or ftp URL. For example try &apos;http://www.example.com&apos;..
         /// </summary>
         public static string UrlValidationMessage {
             get {
